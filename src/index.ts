@@ -1,3 +1,4 @@
 /*
     ===== Código de TypeScript =====
 */
+//Desestructuración 
